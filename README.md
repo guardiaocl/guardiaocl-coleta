@@ -1,4 +1,6 @@
-guardiaocl-coleta
+Guardião Cloud - Coleta
 =================
 
-Código do Atuador conectado ao Guardião Cloud
+Código do Coleta conectado ao Guardião Cloud
+
+Wiki: http://wiki.guardiaocloud.com.br/doku.php?id=coleta:arduino:uno
